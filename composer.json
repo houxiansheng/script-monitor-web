@@ -1,5 +1,5 @@
 {
-  "name": "wolfans/script-monitor",
+  "name": "wolfans/script-monitor-web",
   "description": "离线守护脚本web",
   "type": "library",
   "homepage": "https://github.com/houxiansheng/script-monitor-web",
